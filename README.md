@@ -3,6 +3,10 @@
 ## Purpose
 The purpose of the ChuckStack is to provide organizations with a technology stack that maximizes productivity. It's optimized for the AI world where innovation and effeciencies can come from anyone at any level.
 
+To support this project and its teaching efforts ...
+
+To learn more about the ChuckStack organization, see our website ...
+
 ## ChuckStack
 - [GitHub](https://github.com/) - best tool for managing organization "information". It provides most options for AI amplification.
 - [NixOS](https://nixos.org/) - create envionrments for application delivery to anywhere from desktops to servers to tablets. Easiest way to describe and deploy and maintain the right OS tools to the right role.
