@@ -14,7 +14,8 @@ To learn more about the ChuckStack organization, see our website ...
 - [PostgreSQL](https://www.postgresql.org/) (data) - best tool for managing "data" - database with best performance and enterprise features.
 - [PostgREST](https://postgrest.org/) (API) - PostgreSQL tool for exposing an OpenAPI compliant REST interface directly out of your database.
 - [PostgresML](https://postgresml.org/) (AI) - PostgreSQL tool for AI training and infrencing directyly out of your database.
-- [Ollama](https://ollama.com/) (AI) - AI tool for running generative AI models locally.
+- [Ollama](https://ollama.com/) (AI) - AI tool for running generative AI (LLM) models locally.
+- [LangChain](https://www.langchain.com/) (AI) - high-level Python framework for programatically interacting with AI (LLM) models.
 - [Metabase](https://www.metabase.com/) (BI) - BI tool for visuallizing and publishing data.
 - [Mattermost](https://mattermost.com/) (collaboration) - collaboration tools similar to Slack that stores data directly in PostgreSQL.
 - [iDempiere](https://www.idempiere.org/) (ERP) - ERP for managing orders, inventory, invoices, payments, accounting and much of the data you need to execute operations in your organization.
@@ -24,11 +25,11 @@ To learn more about the ChuckStack organization, see our website ...
 The ChuckStack has been cultivated over the last 25 years. Here are the guidelines for inclusion.
 - Open source - or at least as open as possible
 - Start simple - easy to understand and reason about
-- Basic functionality - like CRUD
-- Kind education - needs someone who makes the technology kind to the target audience
+- Basic functionality - supports basics like CRUD (create, read, update and delete) with minimal effort
+- Kind education - needs someone in the tools who makes the technology kind to the target audience
 - Simple - not overly complicated
-- Enterprise scalability
-- Enterprise testing and deployment
+- Enterprise scalability - it needs to be more than a toy
+- Enterprise testing and deployment - it needs to support team development where improvements can be development, tested and accepted in dedicated environments
 
 ## What is Missing
 All the ChuckStack tools are general tools that most organizations would use.
