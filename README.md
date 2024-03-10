@@ -9,7 +9,7 @@ To learn more about the ChuckStack organization, see our website ...
 
 ## ChuckStack
 - [GitHub](https://github.com/) (code, information, collaboration) - best tool for managing "information". It provides most options for AI amplification.
-- [NixOS](https://nixos.org/) (OS) - create envionrments for application delivery to anywhere from desktops to servers to tablets. Easiest way to describe and deploy and maintain the right OS tools to the right role.
+- [NixOS](https://nixos.org/) (OS) - create operating systems (OS) for application delivery to anywhere from desktops to servers to tablets. Easiest way to describe and deploy and maintain the right OS tools to the right role.
 - [Incus](https://linuxcontainers.org/incus/docs/main/) (virtualization) - container and VM tool to enable sub-orgnizations to innovate and deploy applications. Best virtualization tool that starts simple and scales to enterprise levels.
 - [PostgreSQL](https://www.postgresql.org/) (data) - best tool for managing "data" - database with best performance and enterprise features.
 - [PostgREST](https://postgrest.org/) (API) - PostgreSQL tool for exposing an OpenAPI compliant REST interface directly out of your database.
