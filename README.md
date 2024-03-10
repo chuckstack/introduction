@@ -8,17 +8,17 @@ To support this project and its teaching efforts ...
 To learn more about the ChuckStack organization, see our website ...
 
 ## ChuckStack
-- [GitHub](https://github.com/) - best tool for managing "information". It provides most options for AI amplification.
-- [NixOS](https://nixos.org/) - create envionrments for application delivery to anywhere from desktops to servers to tablets. Easiest way to describe and deploy and maintain the right OS tools to the right role.
-- [Incus](https://linuxcontainers.org/incus/docs/main/) - virtualization tools to enable sub-orgnizations to innovate and deploy applications. Best virtualization tool that starts simple and scales to enterprise levels.
-- [PostgreSQL](https://www.postgresql.org/) - best tool for managing "data" - database with best performance and enterprise features.
-- [PostgREST](https://postgrest.org/) - PostgreSQL tool for exposing an OpenAPI compliant REST interface directly out of your database.
-- [PostgresML](https://postgresml.org/) - PostgreSQL tool for AI training and infrencing directyly out of your database.
-- [Ollama](https://ollama.com/) - AI tool for running generative AI models locally.
-- [Metabase](https://www.metabase.com/) - BI tool for visuallizing and publishing data.
-- [Mattermost](https://mattermost.com/) - collaboration tools similar to Slack that stores data directly in PostgreSQL.
-- [iDempiere](https://www.idempiere.org/) - ERP for managing orders, inventory, invoices, payments, accounting and much of the data you need to execute operations in your organization.
-- [Neovim](https://neovim.io/) - Extremely powerful text editor. This tool is the most controversial becaue it is the least "simply". The fact that is can run in any terminal in almost any OS from almost any location overcomes that lack of initial simplicity.
+- [GitHub](https://github.com/) (code, information, collaboration) - best tool for managing "information". It provides most options for AI amplification.
+- [NixOS](https://nixos.org/) (OS) - create envionrments for application delivery to anywhere from desktops to servers to tablets. Easiest way to describe and deploy and maintain the right OS tools to the right role.
+- [Incus](https://linuxcontainers.org/incus/docs/main/) (virtualization) - container and VM tool to enable sub-orgnizations to innovate and deploy applications. Best virtualization tool that starts simple and scales to enterprise levels.
+- [PostgreSQL](https://www.postgresql.org/) (data) - best tool for managing "data" - database with best performance and enterprise features.
+- [PostgREST](https://postgrest.org/) (API) - PostgreSQL tool for exposing an OpenAPI compliant REST interface directly out of your database.
+- [PostgresML](https://postgresml.org/) (AI) - PostgreSQL tool for AI training and infrencing directyly out of your database.
+- [Ollama](https://ollama.com/) (AI) - AI tool for running generative AI models locally.
+- [Metabase](https://www.metabase.com/) (BI) - BI tool for visuallizing and publishing data.
+- [Mattermost](https://mattermost.com/) (collaboration) - collaboration tools similar to Slack that stores data directly in PostgreSQL.
+- [iDempiere](https://www.idempiere.org/) (ERP) - ERP for managing orders, inventory, invoices, payments, accounting and much of the data you need to execute operations in your organization.
+- [Neovim](https://neovim.io/) (text editor, information) - Extremely powerful text editor. This tool is the most controversial becaue it is the least "simply". The fact that is can run in any terminal in almost any OS from almost any location overcomes that lack of initial simplicity.
 
 ## Guidelines for Stack Selection
 The ChuckStack has been cultivated over the last 25 years. Here are the guidelines for inclusion.
