@@ -17,6 +17,8 @@ To learn more about the ChuckStack organization, see our website ...
 - [Ollama](https://ollama.com/) - AI tool for running generative AI models locally.
 - [Metabase](https://www.metabase.com/) - BI tool for visuallizing and publishing data.
 - [Mattermost](https://mattermost.com/) - collaboration tools similar to Slack that stores data directly in PostgreSQL.
+- [iDempiere](https://www.idempiere.org/) - ERP for managing orders, inventory, invoices, payments, accounting and much of the data you need to execute operations in your organization.
+- [Neovim](https://neovim.io/) - Extremely powerful text editor. This tool is the most controversial becaue it is the least "simply". The fact that is can run in any terminal in almost any OS from almost any location overcomes that lack of initial simplicity.
 
 ## Guidelines for Stack Selection
 The ChuckStack has been cultivated over the last 25 years. Here are the guidelines for inclusion.
@@ -27,3 +29,6 @@ The ChuckStack has been cultivated over the last 25 years. Here are the guidelin
 - Simple - not overly complicated
 - Enterprise scalability
 - Enterprise testing and deployment
+
+## What is Missing
+All the ChuckStack tools are general tools that most organizations would use.
