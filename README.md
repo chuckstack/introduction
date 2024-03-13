@@ -26,7 +26,8 @@ The ChuckStack has been cultivated over the last 25 years. Here are the guidelin
 - Open source - or at least as open as possible
 - Start simple - easy to understand and reason about
 - Basic functionality - supports basics like CRUD (create, read, update and delete) with minimal effort
-- Kind education - needs someone in the tools who makes the technology kind to the target audience
+- Kind educator - needs someone in the tools who makes the technology kind to the target audience
+- Kind integrator - needs someone local to you digitally to help you leverage the tool
 - Simple - not overly complicated
 - Enterprise scalability - it needs to be more than a toy
 - Enterprise testing and deployment - it needs to support team development where improvements can be development, tested and accepted in dedicated environments
