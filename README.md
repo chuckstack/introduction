@@ -32,6 +32,10 @@ The ChuckStack has been cultivated over the last 25 years. Here are the guidelin
 - Enterprise scalability - it needs to be more than a toy
 - Enterprise testing and deployment - it needs to support team development where improvements can be development, tested and accepted in dedicated environments
 
+## Why the Stack is Important
+- Principled (see guidelines)
+- Protection against vendor-lock-in
+
 ## What is Missing
 All the ChuckStack tools are general tools that most organizations would use. Here are some tools that are missing from the list:
 - workflow - I have tried various tools over the years; however, I have not found any tools that meet the stack selection criteria. They have been too complicated to install, too complicated to learn and/or too complicated to maintain. My hope is to find a workflow engine that runs directly out of PostgreSQL that can be exposed through PostgREST.
