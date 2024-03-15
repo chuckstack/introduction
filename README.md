@@ -36,6 +36,9 @@ The ChuckStack has been cultivated over the last 25 years. Here are the guidelin
 - Principled (see guidelines)
 - Protection against vendor-lock-in
 
+## Tools that I am Considering
+- [Deepnote](https://deepnote.com/)
+
 ## What is Missing
 All the ChuckStack tools are general tools that most organizations would use. Here are some tools that are missing from the list:
 - workflow - I have tried various tools over the years; however, I have not found any tools that meet the stack selection criteria. They have been too complicated to install, too complicated to learn and/or too complicated to maintain. My hope is to find a workflow engine that runs directly out of PostgreSQL that can be exposed through PostgREST.
