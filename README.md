@@ -40,6 +40,7 @@ The ChuckStack has been cultivated over the last 25 years. Here are the guidelin
 ## Tools that I am Considering
 - [Deepnote](https://deepnote.com/)
 - [Grafana](https://grafana.com/) - alternative to Zabbix - default used to monitor incus.
+- [Discourse](https://www.discourse.org/) - alternative to github
 
 ## What is Missing
 All the ChuckStack tools are general tools that most organizations would use. Here are some tools that are missing from the list:
