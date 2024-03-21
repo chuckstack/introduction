@@ -21,7 +21,7 @@ To learn more about the ChuckStack organization, see our website ...
 - [iDempiere](https://www.idempiere.org/) (ERP) - ERP for managing orders, inventory, invoices, payments, accounting and much of the data you need to execute operations in your organization.
 - [Neovim](https://neovim.io/) (text editor, information) - Extremely powerful text editor. This tool is the most controversial because it is the least "simple" to get started. The fact that is can run in any terminal in almost any OS from almost any location overcomes that lack of initial simplicity.
 - [Zabbix](https://www.zabbix.com/) - powerful way to monitor resources and respond to events.
-- [CrowdSec](https://www.crowdsec.net/) - Proactively block known malicious IPs and activities.
+- [CrowdSec](https://www.crowdsec.net/) - (security) Proactively block known malicious IPs and activities.
 
 ## Guidelines for Stack Selection
 The ChuckStack has been cultivated over the last 25 years. Here are the guidelines for inclusion.
