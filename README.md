@@ -16,7 +16,7 @@ To learn more about the ChuckStack organization, see our website ...
 - [PostgresML](https://postgresml.org/) (AI) - PostgreSQL tool for AI training and inferencing directly out of your database.
 - [Ollama](https://ollama.com/) (AI) - AI tool for running generative AI (LLM) models locally.
 - [LangChain](https://www.langchain.com/) (AI) - high-level Python framework for programmatically interacting with AI (LLM) models.
-- [Metabase](https://www.metabase.com/) (BI) - BI tool for visualizing and publishing data.
+- [Metabase](https://www.metabase.com/) (BI) - BI tool for visualizing and publishing data. Used if GitHub discussions is not good enough.
 - [Mattermost](https://mattermost.com/) (collaboration) - collaboration tools similar to Slack that stores data directly in PostgreSQL.
 - [iDempiere](https://www.idempiere.org/) (ERP) - ERP for managing orders, inventory, invoices, payments, accounting and much of the data you need to execute operations in your organization.
 - [Neovim](https://neovim.io/) (text editor, information) - Extremely powerful text editor. This tool is the most controversial because it is the least "simple" to get started. The fact that is can run in any terminal in almost any OS from almost any location overcomes that lack of initial simplicity.
