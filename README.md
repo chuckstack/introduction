@@ -31,14 +31,14 @@ To learn more about the Chuck-Stack organization, see our website ...
 ## Guidelines for Stack Selection
 The Chuck-Stack has been cultivated over the last 25 years. Here are the guidelines for inclusion.
 - Open source - or at least as open as possible
-- Start simple - easy to understand and reason about. Nix pushes this concept a little (or a lot); however, the power and simplicity it creates is worth the extra effort.
+- Start simple - easy to understand and reason about. Nix pushes this concept a little (or a lot); however, the power and simplicity it creates is worth the extra effort
 - Basic functionality - supports basics like CRUD (create, read, update and delete) with minimal effort
 - Kind educator - needs someone in the tools who makes the technology kind to the target audience
 - Kind integrator - needs someone local to you digitally to help you leverage the tool
-- Synergy - supports other tools in the stack. Example: runs on or integrates with postgresql.
-- Simple - not overly complicated
-- Enterprise scalability - it needs to scale to support an organization of at lease 100 people if not 1000 across multiple continents.
-- Enterprise testing and deployment - it needs to support team development where improvements can be development, tested and accepted in dedicated environments and easily migrated to production using CI/CD concepts or scripts.
+- Synergy - supports other tools in the stack. Example: runs on or integrates with postgresql
+- Simple architecture - not overly complicated given the tool's domain
+- Enterprise scalability - it needs to scale to support an organization of at lease 100 people if not 1000 across multiple continents
+- Enterprise testing and deployment - it needs to support team development where improvements can be development, tested and accepted in dedicated environments and easily migrated to production using CI/CD concepts or scripts
 
 ## Why the Stack is Important
 - Principled (see guidelines)
