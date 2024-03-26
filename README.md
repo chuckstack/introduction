@@ -3,6 +3,10 @@
 ## Purpose
 The purpose of the Chuck-Stack is to provide organizations with a technology stack and related resources that maximizes productivity. It's optimized for the AI world where innovation and efficiencies can come from anyone at any level.
 
+Target Organization:
+- Generates between $10M and $500M in annual revenue USD
+- Has at least one person in IT
+
 ## Goals
 - Minimize the number of IT-tools used by the organization
 - Maximize IT's ability to provide self-help within the organization
