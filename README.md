@@ -18,7 +18,6 @@ To learn more about the ChuckStack organization, see our website ...
 - [Ollama](https://ollama.com/) (AI) - AI tool for running generative AI (LLM) models locally.
 - [LangChain](https://www.langchain.com/) (AI) - high-level Python framework for programmatically interacting with AI (LLM) models.
 - [Metabase](https://www.metabase.com/) (BI) - BI tool for visualizing and publishing data. Used if GitHub discussions is not good enough.
-- [Mattermost](https://mattermost.com/) (collaboration) - collaboration tools similar to Slack that stores data directly in PostgreSQL.
 - [iDempiere](https://www.idempiere.org/) (ERP) - ERP for managing orders, inventory, invoices, payments, accounting and much of the data you need to execute operations in your organization.
 - [Neovim](https://neovim.io/) (text editor, information) - Extremely powerful text editor. This tool is the most controversial because it is the least "simple" to get started. The fact that is can run in any terminal in almost any OS from almost any location overcomes that lack of initial simplicity.
 - [Zabbix](https://www.zabbix.com/) - (monitoring) monitor resources and respond to events.
@@ -40,9 +39,10 @@ The ChuckStack has been cultivated over the last 25 years. Here are the guidelin
 - Protection against vendor-lock-in
 
 ## Tools that I am Considering
-- [dbt](https://www.lightdash.com/) - cli, dbt and SQL first BI tool
+- [Lightdash](https://www.lightdash.com/) - cli, dbt and SQL first BI tool
 - [Deepnote](https://deepnote.com/) - jupyter notebook
 - [Grafana](https://grafana.com/) - alternative to Zabbix - default used to monitor incus.
+- [Mattermost](https://mattermost.com/) - alternative to github - collaboration tools similar to Slack that stores data directly in PostgreSQL.
 - [Discourse](https://www.discourse.org/) - alternative to github
 
 ## What is Missing
