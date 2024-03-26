@@ -13,6 +13,7 @@ To learn more about the ChuckStack organization, see our website ...
 - [Incus](https://linuxcontainers.org/incus/docs/main/) (virtualization) - container and VM tool to enable sub-organizations to innovate and deploy applications. Best virtualization tool that starts simple and scales to enterprise levels.
 - [PostgreSQL](https://www.postgresql.org/) (data) - best tool for managing "data" - database with best performance and enterprise features.
 - [PostgREST](https://postgrest.org/) (API) - PostgreSQL tool for exposing an OpenAPI compliant REST interface directly out of your database.
+- [dbt](https://www.getdbt.com/) (ETL) - tool to transform transactional data into a form than can be consumed by BI or AI or ...
 - [PostgresML](https://postgresml.org/) (AI) - PostgreSQL tool for AI training and inferencing directly out of your database.
 - [Ollama](https://ollama.com/) (AI) - AI tool for running generative AI (LLM) models locally.
 - [LangChain](https://www.langchain.com/) (AI) - high-level Python framework for programmatically interacting with AI (LLM) models.
@@ -39,7 +40,8 @@ The ChuckStack has been cultivated over the last 25 years. Here are the guidelin
 - Protection against vendor-lock-in
 
 ## Tools that I am Considering
-- [Deepnote](https://deepnote.com/)
+- [dbt](https://www.lightdash.com/) - cli, dbt and SQL first BI tool
+- [Deepnote](https://deepnote.com/) - jupyter notebook
 - [Grafana](https://grafana.com/) - alternative to Zabbix - default used to monitor incus.
 - [Discourse](https://www.discourse.org/) - alternative to github
 
