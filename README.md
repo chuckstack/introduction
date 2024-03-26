@@ -1,13 +1,13 @@
-# ChuckStack Introduction
+# Chuck-Stack Introduction
 
 ## Purpose
-The purpose of the ChuckStack is to provide organizations with a technology stack that maximizes productivity. It's optimized for the AI world where innovation and efficiencies can come from anyone at any level.
+The purpose of the Chuck-Stack is to provide organizations with a technology stack that maximizes productivity. It's optimized for the AI world where innovation and efficiencies can come from anyone at any level.
 
 To support this project and its teaching efforts ...
 
-To learn more about the ChuckStack organization, see our website ...
+To learn more about the Chuck-Stack organization, see our website ...
 
-## ChuckStack
+## Chuck-Stack
 - [GitHub](https://github.com/) (code, information, collaboration) - best tool for managing "information". It provides most options for AI amplification.
 - [NixOS](https://nixos.org/) (OS) - create operating systems (OS) for application delivery to anywhere from desktops to servers to tablets. Easiest way to describe and deploy and maintain the right OS tools to the right role.
 - [Incus](https://linuxcontainers.org/incus/docs/main/) (virtualization) - container and VM tool to enable sub-organizations to innovate and deploy applications. Best virtualization tool that starts simple and scales to enterprise levels.
@@ -24,15 +24,16 @@ To learn more about the ChuckStack organization, see our website ...
 - [CrowdSec](https://www.crowdsec.net/) - (security) Proactively block known malicious IPs and activities.
 
 ## Guidelines for Stack Selection
-The ChuckStack has been cultivated over the last 25 years. Here are the guidelines for inclusion.
+The Chuck-Stack has been cultivated over the last 25 years. Here are the guidelines for inclusion.
 - Open source - or at least as open as possible
-- Start simple - easy to understand and reason about
+- Start simple - easy to understand and reason about. Nix pushes this concept a little (or a lot); however, the power and simplicity it creates is worth the extra effort.
 - Basic functionality - supports basics like CRUD (create, read, update and delete) with minimal effort
 - Kind educator - needs someone in the tools who makes the technology kind to the target audience
 - Kind integrator - needs someone local to you digitally to help you leverage the tool
+- Synergy - supports other tools in the stack. Example: runs on or integrates with postgresql.
 - Simple - not overly complicated
-- Enterprise scalability - it needs to be more than a toy
-- Enterprise testing and deployment - it needs to support team development where improvements can be development, tested and accepted in dedicated environments
+- Enterprise scalability - it needs to scale to support an organization of at lease 100 people if not 1000 across multiple continents.
+- Enterprise testing and deployment - it needs to support team development where improvements can be development, tested and accepted in dedicated environments and easily migrated to production using CI/CD concepts or scripts.
 
 ## Why the Stack is Important
 - Principled (see guidelines)
@@ -46,5 +47,5 @@ The ChuckStack has been cultivated over the last 25 years. Here are the guidelin
 - [Discourse](https://www.discourse.org/) - alternative to github
 
 ## What is Missing
-All the ChuckStack tools are general tools that most organizations would use. Here are some tools that are missing from the list:
+All the Chuck-Stack tools are general tools that most organizations would use. Here are some tools that are missing from the list:
 - workflow - I have tried various tools over the years; however, I have not found any tools that meet the stack selection criteria. They have been too complicated to install, too complicated to learn and/or too complicated to maintain. My hope is to find a workflow engine that runs directly out of PostgreSQL that can be exposed through PostgREST.
