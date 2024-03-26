@@ -1,7 +1,12 @@
 # Chuck-Stack Introduction
 
 ## Purpose
-The purpose of the Chuck-Stack is to provide organizations with a technology stack that maximizes productivity. It's optimized for the AI world where innovation and efficiencies can come from anyone at any level.
+The purpose of the Chuck-Stack is to provide organizations with a technology stack and related resources that maximizes productivity. It's optimized for the AI world where innovation and efficiencies can come from anyone at any level.
+
+## Goals
+- Minimize the number of IT-tools used by the organization
+- Maximize IT's ability to provide self-help within the organization
+- Reduce the organization's dependency on IT for strategic initiative execution
 
 To support this project and its teaching efforts ...
 
@@ -41,6 +46,7 @@ The Chuck-Stack has been cultivated over the last 25 years. Here are the guideli
 
 ## Tools that I am Considering
 - [Lightdash](https://www.lightdash.com/) - cli, dbt and SQL first BI tool
+- [Supabase](https://supabase.com/) - hosted postgresql that promotes creating users in the database
 - [Deepnote](https://deepnote.com/) - jupyter notebook
 - [Grafana](https://grafana.com/) - alternative to Zabbix - default used to monitor incus.
 - [Mattermost](https://mattermost.com/) - alternative to github - collaboration tools similar to Slack that stores data directly in PostgreSQL.
