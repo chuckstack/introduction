@@ -54,8 +54,8 @@ The Chuck-Stack has been cultivated over the last 25 years. Here are the guideli
 - [Supabase](https://supabase.com/) - hosted postgresql that promotes creating users in the database
 - [Deepnote](https://deepnote.com/) - jupyter notebook
 - [Grafana](https://grafana.com/) - alternative to Zabbix - default used to monitor incus.
-- [Mattermost](https://mattermost.com/) - alternative to github - collaboration tools similar to Slack that stores data directly in PostgreSQL.
-- [Discourse](https://www.discourse.org/) - alternative to github
+- [Mattermost](https://mattermost.com/) - alternative to github - collaboration/discussions tools similar to Slack that stores data directly in PostgreSQL.
+- [Discourse](https://www.discourse.org/) - alternative to github for collaboration/discussions
 
 ## What is Missing
 All the Chuck-Stack tools are general tools that most organizations would use. Here are some tools that are missing from the list:
