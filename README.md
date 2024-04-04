@@ -46,17 +46,19 @@ To subscribe, see our website ...
 - [Zabbix](https://www.zabbix.com/) - (monitoring) monitor resources and respond to events.
 - [CrowdSec](https://www.crowdsec.net/) - (security) Proactively block known malicious IPs and activities.
 
-## Guidelines for Stack Selection
+## Guidelines for chuck-stack Selection
 The chuck-stack has been cultivated over the last 25 years. Here are the guidelines for inclusion.
 - Open source - or at least as open as possible
 - Start simple - easy to understand and reason about. Nix pushes this concept a little (or a lot); however, the power and simplicity it creates is worth the extra effort
 - Basic functionality - supports basics like CRUD (create, read, update and delete) with minimal effort
-- Kind educator - needs someone in the tools who makes the technology kind to the target audience
+- Kind educator - needs someone in the community who makes the technology kind to the target audience
 - Kind integrator - needs someone local to you digitally to help you leverage the tool
 - Synergy - supports other tools in the stack. Example: runs on or integrates with postgresql
-- Simple architecture - not overly complicated given the tool's domain
+- Simple architecture - not overly complicated relative to the tool's purpose
 - Enterprise scalability - it needs to scale to support an organization of at lease 100 people if not 1000 across multiple continents
 - Enterprise testing and deployment - it needs to support team development where improvements can be development, tested and accepted in dedicated environments and easily migrated to production using CI/CD concepts or scripts
+- Command Line Interface (CLI) centric - we love cli interfaces because they are easy to administer from anywhere.
+- REST centric - we love scriptable interfaces that can be called from anywhere.
 
 ## Tools that I am Considering
 - [Lightdash](https://www.lightdash.com/) - cli, dbt and SQL first BI tool
