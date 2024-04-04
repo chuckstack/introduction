@@ -24,15 +24,15 @@ We best support organizations that resemble the following characteristics:
 - Remove the IT department as a blocker for strategic initiative execution
 - Minimize infrastructure cost
 
-To support this project and its teaching efforts ...
+To support this project and its education efforts ...
 
-To learn more about the chuck-stack organization, see our website ...
+To subscribe, see our website ...
 
 ## chuck-stack Inventory
 - [Linux](https://en.wikipedia.org/wiki/Linux) (compute) - best tool to run applications on just about any platform in the world.
 - [NixOS](https://nixos.org/) (Linux OS) - specific distribution of Linux delivering the most control and compute options. Nix represents the easiest way to describe, deploy and maintain desktops and servers.
-- [GitHub](https://github.com/) (code, information, collaboration) - best tool for managing "information". It provides most options for AI amplification.
-- [Incus](https://linuxcontainers.org/incus/docs/main/) (virtualization) - container and VM tool to enable sub-organizations to innovate and deploy applications. Best virtualization tool that starts simple and scales to enterprise levels.
+- [GitHub](https://github.com/) (code, information, collaboration) - best tool for managing information, instructions and discussions. It provides most options for AI amplification.
+- [Incus](https://linuxcontainers.org/incus/docs/main/) (virtualization) - container and virtual machine (VM) tool to develop, test and deploy IT applications.
 - [PostgreSQL](https://www.postgresql.org/) (data) - best tool for managing "data" - database with best performance and enterprise features.
 - [PostgREST](https://postgrest.org/) (API) - PostgreSQL tool for exposing an OpenAPI compliant REST interface directly out of your database.
 - [dbt](https://www.getdbt.com/) (ETL) - tool to transform transactional data into a form than can be consumed by BI or AI or ...
