@@ -8,9 +8,9 @@ The purpose of the Chuck-Stack is to provide organizations with a technology sta
 - Has at least one person in IT
 - Does not want to be locked into any one software (Microsoft) or platform (aws, gcp, azure) provider
 - Needs a platform that leverages the least number of tools possible to promote in-depth knowlege and productivity with the tools that are used
-- Wants to delivery organization-wide self-service abilities where possible so that IT can focus on platform evaluation and education (and not simply executing a backlog of support tickets)
+- Wants to deliver organization-wide self-service abilities where possible so that IT can focus on platform improvements and education (and not simply executing a backlog of support tickets)
 
-## Goals
+## Stack Goals
 - Minimize complexity by minimizing the number of IT-tools used by the organization
 - Maximize productivity by maximizing IT's ability to provide self-help tools within the organization
 - Remove the IT department as a blocker for strategic initiative execution
@@ -20,7 +20,7 @@ To support this project and its teaching efforts ...
 
 To learn more about the Chuck-Stack organization, see our website ...
 
-## Chuck-Stack
+## Chuck-Stack Inventory
 - [GitHub](https://github.com/) (code, information, collaboration) - best tool for managing "information". It provides most options for AI amplification.
 - [NixOS](https://nixos.org/) (OS) - create operating systems (OS) for application delivery to anywhere from desktops to servers to tablets. Easiest way to describe and deploy and maintain the right OS tools to the right role.
 - [Incus](https://linuxcontainers.org/incus/docs/main/) (virtualization) - container and VM tool to enable sub-organizations to innovate and deploy applications. Best virtualization tool that starts simple and scales to enterprise levels.
