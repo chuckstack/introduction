@@ -8,7 +8,7 @@ The purpose of the Chuck-Stack is to provide organizations with a technology sta
 - Has at least one person in IT
 - Does not want to be locked into any one software (Microsoft) or platform (aws, gcp, azure) provider
 - Needs a platform that leverages the least number of tools possible to promote in-depth knowlege and productivity with the tools that are used
-- Wants to delivery self-serve abilities where possible so that IT can focus on platform evaluation and education (and not simply executing a backlog of support tickets)
+- Wants to delivery organization-wide self-service abilities where possible so that IT can focus on platform evaluation and education (and not simply executing a backlog of support tickets)
 
 ## Goals
 - Minimize complexity by minimizing the number of IT-tools used by the organization
