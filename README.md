@@ -6,6 +6,9 @@ The purpose of the Chuck-Stack is to provide organizations with a technology sta
 Target Organization:
 - Generates between $10M and $500M in annual revenue USD
 - Has at least one person in IT
+- Does not want to be locked into any one software (Microsoft) or platform provider (aws, gcp, azure)
+- Needs a platform that leverages the least number of tools possible to promote in-depth knowlege and productivity with the tools that are used
+- Wants to promote self-serve features where possible so that IT can focus on platform education (and not simply executing a backlog of support tickets)
 
 ## Goals
 - Minimize the number of IT-tools used by the organization
