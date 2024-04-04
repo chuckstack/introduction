@@ -1,19 +1,20 @@
 # Chuck-Stack Introduction
 
 ## Purpose
-The purpose of the Chuck-Stack is to provide organizations with a technology stack and related resources that maximizes productivity. It's optimized for the AI world where innovation and efficiencies can come from anyone at any level.
+The purpose of the Chuck-Stack is to provide organizations with a technology stack and resources that maximize productivity and minimize cost. Deliver AI-enabled, self-help tools supporting innovation and efficiencies from anyone at any level.
 
 Target Organization:
 - Generates between $10M and $500M in annual revenue USD
 - Has at least one person in IT
 - Does not want to be locked into any one software (Microsoft) or platform provider (aws, gcp, azure)
 - Needs a platform that leverages the least number of tools possible to promote in-depth knowlege and productivity with the tools that are used
-- Wants to promote self-serve features where possible so that IT can focus on platform education (and not simply executing a backlog of support tickets)
+- Wants to delivery self-serve abilities where possible so that IT can focus on platform evaluation and education (and not simply executing a backlog of support tickets)
 
 ## Goals
-- Minimize the number of IT-tools used by the organization
-- Maximize IT's ability to provide self-help within the organization
-- Reduce the organization's dependency on IT for strategic initiative execution
+- Minimize complexity by minimizing the number of IT-tools used by the organization
+- Maximize productivity by maximizing IT's ability to provide self-help tools within the organization
+- Remove the IT department as a blocker for strategic initiative execution
+- Minimize infrastructure cost
 
 To support this project and its teaching efforts ...
 
