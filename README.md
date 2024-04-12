@@ -60,10 +60,11 @@ The chuck-stack has been cultivated over the last 25 years. Here are the guideli
 - Command Line Interface (CLI) centric - we love cli interfaces because they are easy to administer from anywhere.
 - REST centric - we love scriptable interfaces that can be called from anywhere.
 
-## Tools that I am Considering
+## Tools that I am Considering/Testing
 - [Lightdash](https://www.lightdash.com/) - cli, dbt and SQL first BI tool
   - [example](https://www.loom.com/share/c0805a236a994de397ac5142fdfe4b7f) showing how dbt + lightdash work together.
 - [Supabase](https://supabase.com/) - hosted postgresql that promotes creating users in the database
+- [Tailscale](https://tailscale.com/) - zero-trust networking and vpn solution to allow access to privately shared networks
 - [Deepnote](https://deepnote.com/) - jupyter notebook
 - [Grafana](https://grafana.com/) - alternative to Zabbix - default used to monitor incus.
 - [Mattermost](https://mattermost.com/) - alternative to github - collaboration/discussions tools similar to Slack that stores data directly in PostgreSQL.
