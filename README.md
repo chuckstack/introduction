@@ -63,7 +63,7 @@ The chuck-stack has been cultivated over the last 25 years. Here are the guideli
 ## Tools that I am Considering/Testing
 - [Lightdash](https://www.lightdash.com/) - cli, dbt and SQL first BI tool
   - [example](https://www.loom.com/share/c0805a236a994de397ac5142fdfe4b7f) showing how dbt + lightdash work together.
-- [Supabase](https://supabase.com/) - hosted postgresql that promotes creating users in the database
+- [Supabase](https://supabase.com/) - hosted postgresql that promotes creating users in the database and using impersonation as a strategy to write access logic once in a single location.
 - [Tailscale](https://tailscale.com/) - zero-trust networking and vpn solution to allow access to privately shared networks
 - [Deepnote](https://deepnote.com/) - jupyter notebook
 - [Grafana](https://grafana.com/) - alternative to Zabbix - default used to monitor incus.
