@@ -18,6 +18,9 @@ We best support organizations that resemble the following characteristics:
 - Needs a platform that leverages the least number of tools possible to promote in-depth knowlege and productivity with the tools that are used
 - Wants to deliver organization-wide self-service abilities where possible so that IT can focus on platform improvements and education (and not simply executing a backlog of support tickets)
 
+## Terminal first
+We believe the power of the terminal. It proves one of the most rich ways to interact with your 
+
 ## Our Goals for your Organization
 - Minimize complexity by minimizing the number of IT-tools used by the organization
 - Maximize productivity by maximizing IT's ability to provide self-service tools within the organization
@@ -45,6 +48,7 @@ To subscribe, see our website ...
 - [Pass](https://passwordstore.org) - (secrets) - simply yet powerful password tool with clients for every major platform.
 - [Zabbix](https://www.zabbix.com/) - (monitoring) monitor resources and respond to events.
 - [CrowdSec](https://www.crowdsec.net/) - (security) Proactively block known malicious IPs and activities.
+- [Nushell](https://www.nushell.sh/) - (system and data) Terminal shell with designed to understand and manipulate structured data.
 
 ## Guidelines for chuck-stack Selection
 The chuck-stack has been cultivated over the last 25 years. Here are the guidelines for inclusion.
