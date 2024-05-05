@@ -27,6 +27,7 @@ We best support organizations that resemble the following characteristics:
 ## Terminal First
 We believe in the power of the terminal. It provides one of the most rich ways to interact with your system. Websites like [chat.openai.com](https://chat.openai.com/) prove the effectiveness of interacting with a command-line-like application. We work hard to extend this functional to all aspects of your business systems.
 
+## We Love Support
 To support this project and its education efforts ...
 
 To subscribe, see our website ...
