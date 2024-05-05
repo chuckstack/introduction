@@ -18,14 +18,14 @@ We best support organizations that resemble the following characteristics:
 - Needs a platform that leverages the least number of tools possible to promote in-depth knowlege and productivity with the tools that are used
 - Wants to deliver organization-wide self-service abilities where possible so that IT can focus on platform improvements and education (and not simply executing a backlog of support tickets)
 
-## Terminal first
-We believe the power of the terminal. It proves one of the most rich ways to interact with your 
-
 ## Our Goals for your Organization
 - Minimize complexity by minimizing the number of IT-tools used by the organization
 - Maximize productivity by maximizing IT's ability to provide self-service tools within the organization
 - Remove the IT department as a blocker for strategic initiative execution
 - Minimize infrastructure cost
+
+## Terminal First
+We believe in the power of the terminal. It provides one of the most rich ways to interact with your system. Websites like [chat.openai.com](https://chat.openai.com/) prove the effectiveness of interacting with a command-line-like application. We work hard to extend this functional to all aspects of your business systems.
 
 To support this project and its education efforts ...
 
