@@ -6,7 +6,7 @@ type: blog
 ---
 # aichat is a transformative find!
 
-[aichat](https://github.com/sigoden/aichat) is a cli powered chat and copilot tool.
+[aichat](https://github.com/sigoden/aichat) is a cli powered chat and copilot tool. Here is why I believe this statement:
 
 I spend my day in the terminal writing code and takeing notes. Below is a phenomenal scenario that I believe any software development team could benefit from.
 
