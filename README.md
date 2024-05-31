@@ -24,7 +24,9 @@ We best support organizations that resemble the following characteristics:
 - Remove the IT department as a blocker for strategic initiative execution
 - Minimize infrastructure cost
 
+## We Love Support
 If you want support for any of the below tools, join the chuck-stack support academy. We meet 4 times per week via zoom to discuss learning, auditing, deploying, scaling, supporting and scaling the below systems.
+To support this project and its education efforts ...
 
 [Subscribe Now](https://buy.stripe.com/7sIbLIeeU3oT4IEfYY)
 
@@ -45,6 +47,7 @@ If you want support for any of the below tools, join the chuck-stack support aca
 - [Pass](https://passwordstore.org) - (secrets) - simply yet powerful password tool with clients for every major platform.
 - [Zabbix](https://www.zabbix.com/) - (monitoring) monitor resources and respond to events.
 - [CrowdSec](https://www.crowdsec.net/) - (security) Proactively block known malicious IPs and activities.
+- [Nushell](https://www.nushell.sh/) - (system and data) Terminal shell with designed to understand and manipulate structured data.
 
 ## Guidelines for chuck-stack Selection
 The chuck-stack has been cultivated over the last 25 years. Here are the guidelines for inclusion.
@@ -60,10 +63,12 @@ The chuck-stack has been cultivated over the last 25 years. Here are the guideli
 - Command Line Interface (CLI) centric - we love cli interfaces because they are easy to administer from anywhere.
 - REST centric - we love scriptable interfaces that can be called from anywhere.
 
-## Tools that I am Considering
+## Tools that I am Considering/Testing
+- [zellij](https://zellij.dev) - cli workspace - the effort to learn is non-trivial; however, the rewards are massive. I can imaging an ERP interface using zellij that would destroy all other erps.
 - [Lightdash](https://www.lightdash.com/) - cli, dbt and SQL first BI tool
   - [example](https://www.loom.com/share/c0805a236a994de397ac5142fdfe4b7f) showing how dbt + lightdash work together.
-- [Supabase](https://supabase.com/) - hosted postgresql that promotes creating users in the database
+- [Supabase](https://supabase.com/) - hosted postgresql that promotes creating users in the database and using impersonation as a strategy to write access logic once in a single location.
+- [Tailscale](https://tailscale.com/) - zero-trust networking and vpn solution to allow access to privately shared networks
 - [Deepnote](https://deepnote.com/) - jupyter notebook
 - [Grafana](https://grafana.com/) - alternative to Zabbix - default used to monitor incus.
 - [Mattermost](https://mattermost.com/) - alternative to github - collaboration/discussions tools similar to Slack that stores data directly in PostgreSQL.
