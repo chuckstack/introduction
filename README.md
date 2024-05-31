@@ -24,9 +24,9 @@ We best support organizations that resemble the following characteristics:
 - Remove the IT department as a blocker for strategic initiative execution
 - Minimize infrastructure cost
 
-To support this project and its education efforts ...
+If you want support for any of the below tools, join the chuck-stack support academy. We meet 4 times per week via zoom to discuss learning, auditing, deploying, scaling, supporting and scaling the below systems.
 
-To subscribe, see our website ...
+[Subscribe Now](https://buy.stripe.com/7sIbLIeeU3oT4IEfYY)
 
 ## chuck-stack Inventory
 - [Linux](https://en.wikipedia.org/wiki/Linux) (compute) - best tool to run applications on just about any platform in the world.
