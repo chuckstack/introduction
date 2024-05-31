@@ -17,7 +17,10 @@ b) a specific task (begins with a datestamp) that I want an llm to help me with.
 Below is how I compose a prompt with little effort
 
 ```bash
-aichat -f aichat/20240521-admin-introduction.txt -f aichat/prompt-general.txt -f migration-01-ddl.sql > work-instruction-admin.txt
+aichat -f aichat/20240521-admin-introduction.txt \
+       -f aichat/prompt-general.txt \
+       -f migration-01-ddl.sql \
+        > work-instruction-admin.txt
 ```
 
 Where:
