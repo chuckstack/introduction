@@ -11,8 +11,9 @@ type: blog
 I spend my day in the terminal writing code and takeing notes. Below is a phenomenal scenario that I believe any software development team could benefit from.
 
 In my git repo, I have an aichat directory. It contains two types of files:
-a) common repo prompts that many on the team would use (begins with 'prompt%') and
-b) a specific task (begins with a datestamp) that I want an llm to help me with. 
+
+a. common repo prompts that many on the team would use (begins with 'prompt%') and
+b. a specific task (begins with a datestamp) that I want an llm to help me with. 
 
 Below is how I compose a prompt with little effort
 
