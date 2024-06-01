@@ -30,7 +30,7 @@ Where:
 - [migration-01-ddl.sql](https://github.com/chuckstack/pg-workflow/blob/main/migration-01-ddl.sql) is the database design in its entirety (almost 30 tables) - notice the detailed table comments...
 - Output: text file used for shared understanding (and that I might pass back into aichat if needed)
 
-The quality of the resulting work instructions is crazy good. More specifically, the llm's ability to build a mental model and reason about the domain just from the sql ddl is hard to believe. By adopting a standard approach to how to engage an llm, the team shares in the ability to create better results. Aichat helps the team build the intelligence directly into the git repository without any dependency on any other locally installed tool.
+The quality of the resulting work instructions is crazy good. More specifically, the llm's ability to build a mental model and reason about the domain just from the sql ddl is hard to believe. By adopting a standard approach to engage an llm, the team shares in the ability to create better results. Aichat helps the team build the intelligence directly into the git repository without any dependency on any other locally installed tool.
 
 Here is an example aichat directory:
 ```bash
