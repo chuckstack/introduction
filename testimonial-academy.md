@@ -16,9 +16,9 @@ Jeremy - CEO/CTO
 
 Nasi - Business Owner
 
-I have yet to hear Chuck say something cannot be done. This sums up their approach to ERP. Combine their knowledge and their teaching platform that LAD provides and you have a sure way to a successful ERP implementation.
+> I have yet to hear Chuck say something cannot be done. This sums up their approach to ERP. Combine their knowledge and their teaching platform that LAD provides and you have a sure way to a successful ERP implementation.
 
-Our businesses are much smaller than most that would implement an ERP, but LAD is as passionate as we are as we go through this process. LAD provides a large safety net when trying to deploy the ins and outs of ERP.
+> Our businesses are much smaller than most that would implement an ERP, but LAD is as passionate as we are as we go through this process. LAD provides a large safety net when trying to deploy the ins and outs of ERP.
 
 Stefanie - Administrative Services Manager
 
