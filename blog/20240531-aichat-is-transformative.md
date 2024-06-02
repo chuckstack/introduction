@@ -67,7 +67,9 @@ More details if you are still reading:
 
 The list goes on and on... I hope this helps!!
 
-If you wish to learn more, join the [chuck-stack support academy](https://buy.stripe.com/7sIbLIeeU3oT4IEfYY).
+If you wish to learn more, join the [chuck-stack support academy](https://buy.stripe.com/7sIbLIeeU3oT4IEfYY). For more information:
+- [FAQ](../faq-academy.md)
+
 
 Chuck Boecking
 512.850.6068 (office and cell)
