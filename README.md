@@ -1,10 +1,10 @@
 # chuck-stack Introduction
 
 ## Purpose
-The purpose of the chuck-stack is to: 
-- Provide organizations with the technology and community to maximize productivity and minimize cost
-- Deploy AI-enabled, self-service tools supporting innovation and efficiencies from anyone at any level in your organization
-- Build a community of support and innovation
+The purpose of the chuck-stack is to help organizations: 
+- increase transactional velocity and efficiency,
+- identify and deploy AI-enabled, self-service tools that drive innovation from everyone in your organization,
+- build a community of support and innovation.
 
 ## Why chuck-stack is Important
 We believe in a cooperative approach to learning, support and innovation. As a group, we establish the priciples that guide decisions and collectively create a platform the values simplicity, stability and self-service.
@@ -25,7 +25,7 @@ We best support organizations that resemble the following characteristics:
 - Minimize infrastructure cost
 
 ## We Love Support
-If you want support for any of the below tools, join the chuck-stack support academy. We meet 4 times per week via zoom to discuss learning, auditing, deploying, scaling, supporting and scaling the below systems.
+If you want support for any of the below tools, join the transaction-academy. We meet 4 times per week via zoom to learn, audit, deploy, support and scale the below systems.
 To support this project and its education efforts ...
 
 [Subscribe Now](https://buy.stripe.com/7sIbLIeeU3oT4IEfYY)
@@ -48,6 +48,7 @@ To support this project and its education efforts ...
 - [Zabbix](https://www.zabbix.com/) - (monitoring) monitor resources and respond to events.
 - [CrowdSec](https://www.crowdsec.net/) - (security) Proactively block known malicious IPs and activities.
 - [Nushell](https://www.nushell.sh/) - (system and data) Terminal shell with designed to understand and manipulate structured data.
+- [Zellij](https://www.zellij.dev) - terminal workspace environment for managing information and transactions.
 
 ## Guidelines for chuck-stack Selection
 The chuck-stack has been cultivated over the last 25 years. Here are the guidelines for inclusion.
