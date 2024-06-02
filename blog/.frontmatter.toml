@@ -1,6 +1,8 @@
 ---
-title: "this is a title"
+title: "title"
 date: 2024-05-31
 tags: [developer,sql,ai,llm,cli]
 type: blog
+audience: [cio,coo,cto,ceo,technician,developer,accounting]
+published: false
 ---

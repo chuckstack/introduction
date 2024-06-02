@@ -1,8 +1,10 @@
 ---
 title: "aichat is transformative"
 date: 2024-05-31
-tags: [developer,sql,ai,llm]
+tags: [developer,sql,ai,llm,cli]
 type: blog
+audience: [cto]
+published: true
 ---
 # aichat is a transformative find!
 
