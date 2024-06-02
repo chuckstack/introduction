@@ -29,7 +29,17 @@ If you want training and support for any of the below tools, join the transactio
 
 [Subscribe Now](https://buy.stripe.com/7sIbLIeeU3oT4IEfYY)
 
-## chuck-stack Inventory
+## chuck-stack Internal Tools
+Collection of PostgreSQL extensions to 
+- pg_stack_workflow - workflow engine
+- pg_stack_form - create html forms on demand
+- pg_stack_chart - creates html charts on demand
+- pg_stack_asi - attribute, attribute set, attribute set instance - used to assign metabase to any record
+- pg_stack_dms - document management system - uses pg_stack_asi
+- pg_stack_changelog - changelog engine
+- pg_stack_tag - record tagging system - uses pg_stack_asi
+
+## chuck-stack External Tools
 - [Linux](https://en.wikipedia.org/wiki/Linux) (compute) - best tool to run applications on just about any platform in the world.
 - [NixOS](https://nixos.org/) (Linux OS) - specific distribution of Linux delivering the most control and compute options. Nix represents the easiest way to describe, deploy and maintain desktops and servers.
 - [GitHub](https://github.com/) (code, information, collaboration) - best tool for managing information, instructions and discussions. It provides most options for AI amplification.
