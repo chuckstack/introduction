@@ -22,7 +22,7 @@ Nasi - Business Owner
 
 Stefanie - Administrative Services Manager
 
-> As someone who has no background in ERP and is not very tech savvy, I was a little overwhelmed when I was first tasked with implementing an ERP for our company, but Chuck has been a great resource to help me to get this project moving in the right direction. Chuck training is a great resource to help you understand the different areas of ERP and how the system can be used to fit your company's needs. The videos are clear and extremely helpful in each topic presented and Chuck is extremely knowledgeable in so many different areas of ERP. I find the live open discussions extremely valuable as it provides an opportunity to discuss our questions or issues with fellow members and allows us to work through real life scenarios in real time. Chuck is always willing to help you work through an issue or question and is extremely patient if you are struggling to grasp a concept.
+> As someone who has no background in ERP and is not very tech savvy, I was a little overwhelmed when I was first tasked with implementing an ERP for our company, but Chuck has been a great resource to help me to get this project moving in the right direction. Chuck's training is a great resource to help you understand the different areas of ERP and how the system can be used to fit your company's needs. The videos are clear and extremely helpful in each topic presented and Chuck is extremely knowledgeable in so many different areas of ERP. I find the live open discussions extremely valuable as it provides an opportunity to discuss our questions or issues with fellow members and allows us to work through real life scenarios in real time. Chuck is always willing to help you work through an issue or question and is extremely patient if you are struggling to grasp a concept.
 
 Brian - Business Owner
 
@@ -30,7 +30,7 @@ Brian - Business Owner
 
 Rumman - Business Owner
 
-> Thank you so much for all your assistance and the wonderful way in which you led me to implement ERP in my organization. Not only did I learn about ERP's from you, I am also an admirer of the way you teach with passion and dedication. The learning on that front has been amazing too.
+> Thank you so much for all your assistance and the wonderful way in which you led me to implement ERP in my organization. Not only did I learn about ERPs from you, I am also an admirer of the way you teach with passion and dedication. The learning on that front has been amazing too.
 
 Jacob - Business Systems Analyst
 
@@ -58,7 +58,7 @@ Michael – General Manager Business Processes and Systems
 
 Kevin - CIO
 
-> I've been Chuck for some time now and can't stress enough how invaluable it has been to me and our organization. Chuck's immense knowledge in many different realms provides a unique approach to ERP implementation and management. Add to that Chuck's passion for educating and you've got a very unique package.
+> I've known Chuck for some time now and can't stress enough how invaluable it has been to me and our organization. Chuck's immense knowledge in many different realms provides a unique approach to ERP implementation and management. Add to that Chuck's passion for educating and you've got a very unique package.
 
 Hans - ERP Manager
 
