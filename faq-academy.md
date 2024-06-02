@@ -1,2 +1,2 @@
-# FAQ - stack-academy and transaction-academy
+# FAQ - frequently asked questions about transaction-academy
 
