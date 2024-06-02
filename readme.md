@@ -24,9 +24,8 @@ We best support organizations that resemble the following characteristics:
 - Remove the IT department as a blocker for strategic initiative execution
 - Minimize infrastructure cost
 
-## We Love Support
-If you want support for any of the below tools, join the transaction-academy. We meet 4 times per week via zoom to learn, audit, deploy, support and scale the below systems.
-To support this project and its education efforts ...
+## We Love Training and Support
+If you want training and support for any of the below tools, join the transaction-academy. We meet 4 times per week via zoom to learn, audit, deploy, support and scale the below systems.
 
 [Subscribe Now](https://buy.stripe.com/7sIbLIeeU3oT4IEfYY)
 
