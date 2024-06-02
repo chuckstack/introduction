@@ -65,7 +65,6 @@ The chuck-stack has been cultivated over the last 25 years. Here are the guideli
 - REST centric - we love scriptable interfaces that can be called from anywhere.
 
 ## Tools that I am Considering/Testing
-- [zellij](https://zellij.dev) - cli workspace - the effort to learn is non-trivial; however, the rewards are massive. I can imaging an ERP interface using zellij that would destroy all other erps.
 - [Lightdash](https://www.lightdash.com/) - cli, dbt and SQL first BI tool
   - [example](https://www.loom.com/share/c0805a236a994de397ac5142fdfe4b7f) showing how dbt + lightdash work together.
 - [Supabase](https://supabase.com/) - hosted postgresql that promotes creating users in the database and using impersonation as a strategy to write access logic once in a single location.
