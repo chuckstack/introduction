@@ -72,7 +72,7 @@ If you wish to learn more, join the [chuck-stack support academy](https://buy.st
 
 
 Chuck Boecking
-512.850.6068 (office and cell)
-chuck@chuboe.com
-www.ChuckBoecking.com
-http://www.linkedin.com/pub/chuck-boecking/10/970/17b
+- 512.850.6068 (office and cell)
+- chuck@chuboe.com
+- www.ChuckBoecking.com
+- http://www.linkedin.com/pub/chuck-boecking/10/970/17b
