@@ -41,10 +41,11 @@ AI-enabled collection of PostgreSQL extensions to:
 
 ## AI Enabled Tooling
 What are AI enabled extensions?
-- Clearly defined work instructions and documentation that is easily digestible by off-the-shelf LLMs.
-- Tools written so clearly and concisely that AI easily understands the domain and the code.
+- Clearly defined work instructions and documentation that is easily digestible by off-the-shelf LLMs
+- Tools written so clearly and concisely that AI easily understands the domain and the code
 - Employ recursive rag tools to ensure complete answers
 - Additional fine-tuning to ensure fast and accurate answers
+- Tool where both the cli client as well as the database itself can query LLMs
 
 ## chuck-stack External Tools
 - [Linux](https://en.wikipedia.org/wiki/Linux) (compute) - best tool to run applications on just about any platform in the world.
