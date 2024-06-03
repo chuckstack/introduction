@@ -29,6 +29,13 @@ If you want training and support for any of the below tools, join the transactio
 
 [Subscribe Now](https://buy.stripe.com/7sIbLIeeU3oT4IEfYY)
 
+## AI Enabled Tooling
+What is AI enabled tooling?
+- Clearly defined work instructions and documentation that is easily digestible by off-the-shelf LLMs.
+- Tools written so clearly and concisely that AI easily understands the domain and the code.
+- Employ recursive rag tools to ensure complete answers
+- Additional fine-tuning to ensure fast and accurate answers
+
 ## chuck-stack Internal Tools
 Collection of PostgreSQL extensions to 
 - pg_stack_workflow - workflow engine
