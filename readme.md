@@ -35,6 +35,7 @@ AI-enabled collection of PostgreSQL extensions to:
 - pg_stack_form - create html forms on demand
 - pg_stack_chart - creates html charts on demand
 - pg_stack_asi - attribute, attribute set, attribute set instance - used to assign metabase to any record
+- pg_stack_project - project architecture (project phaese, tasks and lines - projects make use of pg_stack_workflow)
 - pg_stack_timesheet - timesheet engine
 - pg_stack_dms - document management system - uses pg_stack_asi
 - pg_stack_changelog - changelog engine
