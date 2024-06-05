@@ -43,6 +43,7 @@ AI-enabled collection of PostgreSQL extensions to:
 - pg_stack_dms - document management system - uses pg_stack_asi
 - pg_stack_changelog - changelog engine
 - pg_stack_tag - record tagging system - uses pg_stack_asi
+- pg_stack_chat - discussions architecture
 
 ## AI Enabled Tooling
 What are AI enabled extensions?
