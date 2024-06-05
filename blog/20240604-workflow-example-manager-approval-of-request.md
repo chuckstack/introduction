@@ -41,6 +41,8 @@ Activities/
 ├── Request (high priority): 6
 ├── Request (low priority): 19
 ├── Sales Orders Pending Approval: 0
+├── Drafted Invoice: 0
+├── Big Dollar Quotes: 99
 └── Sales Rep BP Approval: 10
 ```
 
