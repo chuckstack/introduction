@@ -73,7 +73,7 @@ The downsides (con) of this option are:
 Ad hoc workflow is a good solution for this scenario. It is especially good if the action being approved is not business critical, and your users already understand and currently use ad hoc workflow.
 
 ## Option 3: Tradition Workflow
-The traditional workflow is the most restrictive of the workflow options. It is the ad hoc workflow process with guardrails applied. It requires the person who designs the workflow process to think ahead of all possible permutations for a request in terms of state, action, transition, activity and resolution. Once the request is created, it is bound by these guardrails through the request reaches its final state.
+The traditional workflow is the most restrictive of the workflow options. It is the ad hoc workflow process with guardrails applied. It requires the person who designs the workflow process to think ahead of all possible allowed permutations for a request in terms of state, action, transition, activity and resolution. Once the request is created, it is bound by these guardrails through the request reaches its final state.
 
 The beauty (pro) of this option is its ability to enforce standards.
 - Performs well in high-volume workflow processes.
