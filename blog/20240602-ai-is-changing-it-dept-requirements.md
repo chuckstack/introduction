@@ -1,5 +1,5 @@
 ---
-title: "challenges for organizations"
+title: "AI is changing IT Dept Requirements"
 date: 2024-06-02
 tags: [developer,sql,ai,llm,cli]
 type: blog

@@ -35,7 +35,14 @@ The downsides (con) of this option are:
 - If you are monitoring a hight number of activities (say over 40), an additional activity might get missed in the volume.
 - There is no easy way to pass the approval to someone else.
 
-Queue-based activity workflow is a good solution for this scenario. The only real concern would come if there is an already excessive list of activities to monitor.
+Queue-based activity workflow is a good solution for this scenario. The only real concern would come if there is an already excessive list of activities to monitor. Here is an example of an activity list:
+```bash
+Activities/
+├── Request (high priority): 6
+├── Request (low priority): 19
+├── Sales Orders Pending Approval: 0
+└── Sales Rep BP Approval: 10
+```
 
 ## Option 2: Ad hoc Workflow
 The ad hoc workflow option is more complex than a simple queue of activities. I want to spend a moment talking about what ad hoc workflows are and how they relate to the above scenario. The centerpiece of the ad hoc workflow is the request. Here are the details of a request:
