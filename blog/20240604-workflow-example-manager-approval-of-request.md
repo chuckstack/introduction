@@ -37,7 +37,7 @@ The downsides (con) of this option are:
 
 Queue-based activity workflow is a good solution for this scenario. The only real concern would come if there is an already excessive list of activities to monitor. Here is an example of an activity list:
 ```bash
-Activities/
+Activities:
 ├── Request (high priority): 6
 ├── Request (low priority): 19
 ├── Sales Orders Pending Approval: 0
