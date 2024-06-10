@@ -17,4 +17,4 @@ This begs the question
 Here is a quick list for your reference:
 - Actions allow you to simplify the workflow user experience by defining a "go do it..." option.
 - Actions allow you do define who can do what. This is helpful when you need to add additional user or role restrictions.
-- Actions (and thereby Action Types) allow you to execute previously define logic/automation when invoked.
+- Actions (and thereby Action Types) allow you to execute previously define logic/automation when executing a transition.
