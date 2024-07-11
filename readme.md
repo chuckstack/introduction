@@ -57,6 +57,7 @@ What are AI enabled extensions?
 - [Linux](https://en.wikipedia.org/wiki/Linux) (compute) - best tool to run applications on just about any platform in the world.
 - [NixOS](https://nixos.org/) (Linux OS) - specific distribution of Linux delivering the most control and compute options. Nix represents the easiest way to describe, deploy and maintain desktops and servers.
 - [GitHub](https://github.com/) (code, information, collaboration) - best tool for managing information, instructions and discussions. It provides most options for AI amplification.
+- [aichat](https://github.com/sigoden/aichat) - command line aichat tool that include saves sessions, rag, function-calling and more.
 - [Incus](https://linuxcontainers.org/incus/docs/main/) (virtualization) - container and virtual machine (VM) tool to develop, test and deploy IT applications.
 - [PostgreSQL](https://www.postgresql.org/) (data) - best tool for managing "data" - database with best performance and enterprise features.
 - [PostgREST](https://postgrest.org/) (API) - PostgreSQL tool for exposing an OpenAPI compliant REST interface directly out of your database.
